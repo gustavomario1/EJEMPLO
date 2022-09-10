@@ -1,0 +1,62 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1662800127732)
++++ b/.idea/misc.xml	(date 1662800127732)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" default="true">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1662800127718)
++++ b/.idea/workspace.xml	(date 1662800127718)
+@@ -0,0 +1,19 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="ed308a8e-83eb-4c79-9bea-f07bbe7f6e64" name="Changes" comment="uniendo ramas DEV/DEV2" />
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
++  <component name="TaskManager">
++    <servers />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Merge_at_10_09_2022_03_53__Changes_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Merge_at_10_09_2022_03_53__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Merge_at_10_09_2022_03_53__Changes_.xml
+new file mode 100644
+--- /dev/null	(date 1662800127694)
++++ b/.idea/shelf/Uncommitted_changes_before_Merge_at_10_09_2022_03_53__Changes_.xml	(date 1662800127694)
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Merge_at_10_09_2022_03_53_[Changes]" date="1662800001998" recycled="true" deleted="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_10_09_2022_03_53_[Changes]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Merge at 10/09/2022 03:53 [Changes]" />
++</changelist>
+\ No newline at end of file
